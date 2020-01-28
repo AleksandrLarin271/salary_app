@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "875120442061",
+    "firebase_url": "https://salaryapp-7dcae.firebaseio.com",
+    "project_id": "salaryapp-7dcae",
+    "storage_bucket": "salaryapp-7dcae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875120442061:android:4182e28f11b0f26c3b4784",
+        "android_client_info": {
+          "package_name": "common.salary_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875120442061-htdarqht19ltjbta0h69m87kcb81h1tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ88GiFOALjkt9QSxJ0rm5DwHs1hF1hYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875120442061-htdarqht19ltjbta0h69m87kcb81h1tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875120442061:android:3e954df4a378a2393b4784",
+        "android_client_info": {
+          "package_name": "salaryapp.flutter_module"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875120442061-htdarqht19ltjbta0h69m87kcb81h1tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ88GiFOALjkt9QSxJ0rm5DwHs1hF1hYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875120442061-htdarqht19ltjbta0h69m87kcb81h1tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
